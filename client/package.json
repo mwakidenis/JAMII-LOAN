@@ -29,5 +29,8 @@
     "postcss": "^8.4.29",
     "tailwindcss": "^3.3.3",
     "vite": "^7.1.10"
+  },
+  "overrides": {
+    "@remix-run/router": "1.23.2"
   }
 }
